@@ -1,0 +1,618 @@
+[
+  {
+    "id": 1,
+    "title": "In Search of Lost Time",
+    "author": "Marcel Proust",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/7hqv6ddaqv363p4hadx6lymotow1",
+    "description": "Swann's Way, the first part of A la recherche de temps perdu, Marcel Proust's seven-part cycle, was published in 1913. In it, Proust introduces the themes that run through the entire work. The narr..."
+  },
+  {
+    "id": 2,
+    "title": "Ulysses",
+    "author": "James Joyce",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/f7nkbyqfsnrrlct3hs01jkrz2vdi",
+    "description": "Ulysses chronicles the passage of Leopold Bloom through Dublin during an ordinary day, June 16, 1904. The title parallels and alludes to Odysseus (Latinised into Ulysses), the hero of Homer's Odyss..."
+  },
+  {
+    "id": 3,
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/iuqtve0un6ch2pnjmx6f6fbxl0np",
+    "description": "Alonso Quixano, a retired country gentleman in his fifties, lives in an unnamed section of La Mancha with his niece and a housekeeper. He has become obsessed with books of chivalry, and believes th..."
+  },
+  {
+    "id": 4,
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel Garcia Marquez",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/evtw45j15ooutm5tnz3ev1r9lk0e",
+    "description": "One of the 20th century's enduring works, One Hundred Years of Solitude is a widely beloved and acclaimed novel known throughout the world, and the ultimate achievement in a Nobel Prize–winning car..."
+  },
+  {
+    "id": 5,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/4hkku1sl8y3fh8ggaazav5o65uqp",
+    "description": "The novel chronicles an era that Fitzgerald himself dubbed the \"Jazz Age\". Following the shock and chaos of World War I, American society enjoyed unprecedented levels of prosperity during the \"roar..."
+  },
+  {
+    "id": 6,
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/epke1jolmtb858vv9ctbtxpa8yi6",
+    "description": "First published in 1851, Melville's masterpiece is, in Elizabeth Hardwick's words, \"the greatest novel in American literature.\" The saga of Captain Ahab and his monomaniacal pursuit of the white wh..."
+  },
+  {
+    "id": 7,
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/hwi2qqngyicqz7s7ps4x4k1ei14k",
+    "description": "Epic in scale, War and Peace delineates in graphic detail events leading up to Napoleon's invasion of Russia, and the impact of the Napoleonic era on Tsarist society, as seen through the eyes of fi..."
+  },
+  {
+    "id": 8,
+    "title": "Hamlet",
+    "author": "William Shakespeare",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/lunn7h6g4t5p27ene642364pu4l3",
+    "description": "The Tragedy of Hamlet, Prince of Denmark, or more simply Hamlet, is a tragedy by William Shakespeare, believed to have been written between 1599 and 1601. The play, set in Denmark, recounts how Pri..."
+  },
+  {
+    "id": 9,
+    "title": "The Odyssey",
+    "author": "Homer",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/jyx2n4emuiwjjfu682ylkh10xyoj",
+    "description": "The Odyssey is one of two major ancient Greek epic poems attributed to Homer. It is, in part, a sequel to the Iliad, the other work traditionally ascribed to Homer. The poem is fundamental to the m..."
+  },
+  {
+    "id": 10,
+    "title": "Madame Bovary",
+    "author": "Gustave Flaubert",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/rtw3xjyjbcouewfrbpz5lcx5e6yf",
+    "description": "For daring to peer into the heart of an adulteress and enumerate its contents with profound dispassion, the author of Madame Bovary was tried for \"offenses against morality and religion.\" What shoc..."
+  },
+  {
+    "id": 11,
+    "title": "The Divine Comedy",
+    "author": "Dante Alighieri",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/r3pnyg732gdvkmh8pik9p0b5ct6y",
+    "description": "Belonging in the immortal company of the great works of literature, Dante Alighieri's poetic masterpiece, The Divine Comedy, is a moving human drama, an unforgettable visionary journey through the ..."
+  },
+  {
+    "id": 12,
+    "title": "Lolita",
+    "author": "Vladimir Nabokov",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/cuqzoi0t52xnb7cjhdzrfuc7rjj4",
+    "description": "The book is internationally famous for its innovative style and infamous for its controversial subject: the protagonist and unreliable narrator, middle aged Humbert Humbert, becomes obsessed and se..."
+  },
+  {
+    "id": 13,
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoyevsky",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/ctt318djdthx536i3glgdw270dyq",
+    "description": "Dostoevsky's last and greatest novel, The Karamazov Brothers, is both a brilliantly told crime story and a passionate philosophical debate. The dissolute landowner Fyodor Pavlovich Karamazov is mur..."
+  },
+  {
+    "id": 14,
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoyevsky",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/t25h3cf21f4l535cyl9tw5l4kfpb",
+    "description": "It is a murder story, told from a murder;s point of view, that implicates even the most innocent reader in its enormities. It is a cat-and-mouse game between a tormented young killer and a cheerful..."
+  },
+  {
+    "id": 15,
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/43ma2b4rlzqbh8181hj7dnpuz5at",
+    "description": "The narrative is non-linear, involving several flashbacks, and two primary narrators: Mr. Lockwood and Ellen \"Nelly\" Dean. The novel opens in 1801, with Mr. Lockwood arriving at Thrushcross Grange,..."
+  },
+  {
+    "id": 16,
+    "title": "The Catcher in the Rye",
+    "author": "J. D. Salinger",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/arrd4a0qpe7i6ff6jtfmtllqcl6v",
+    "description": "The Catcher in the Rye is a 1945 novel by J. D. Salinger. Originally published for adults, the novel has become a common part of high school and college curricula throughout the English-speaking wo..."
+  },
+  {
+    "id": 17,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/bd8er2tdfmh9auhh0v5gf90ebux5",
+    "description": "The book is narrated in free indirect speech following the main character Elizabeth Bennet as she deals with matters of upbringing, marriage, moral rightness and education in her aristocratic socie..."
+  },
+  {
+    "id": 18,
+    "title": "The Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/phz3vc780qvnafu8phrzjyptq75a",
+    "description": "Revered by all of the town's children and dreaded by all of its mothers, Huckleberry Finn is indisputably the most appealing child-hero in American literature.\n\nUnlike the tall-tale, idyllic worl..."
+  },
+  {
+    "id": 19,
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/kv7bohlfznregsg7wuttncytwvvv",
+    "description": "Anna Karenina tells of the doomed love affair between the sensuous and rebellious Anna and the dashing officer, Count Vronsky. Tragedy unfolds as Anna rejects her passionless marriage and must endu..."
+  },
+  {
+    "id": 20,
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/f8uct7xgd8cz5cw1dsz54zc6swlc",
+    "description": "In 1862 Charles Lutwidge Dodgson, a shy Oxford mathematician with a stammer, created a story about a little girl tumbling down a rabbit hole. Thus began the immortal adventures of Alice, perhaps th..."
+  },
+  {
+    "id": 21,
+    "title": "The Iliad",
+    "author": "Homer",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/kudnd6hjgwhd190ozepfx6g8js7g",
+    "description": "The Iliad is an epic poem in dactylic hexameters, traditionally attributed to Homer. Set in the Trojan War, the ten-year siege of Ilium by a coalition of Greek states, it tells of the battles and e..."
+  },
+  {
+    "id": 22,
+    "title": "To the Lighthouse",
+    "author": "Virginia Woolf",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/kazhz5lkzb7az4tcygl1ov67exhr",
+    "description": "A landmark novel of high modernism, the text, centering on the Ramsay family and their visits to the Isle of Skye in Scotland between 1910 and 1920, skillfully manipulates temporality and psycholog..."
+  },
+  {
+    "id": 23,
+    "title": "Catch-22",
+    "author": "Joseph Heller",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/o6ygsbi6c0q1nl9z38x6c6027sxo",
+    "description": "Catch-22 is a satirical, historical novel by the American author Joseph Heller, first published in 1961. The novel, set during the later stages of World War II from 1943 onwards, is frequently cite..."
+  },
+  {
+    "id": 24,
+    "title": "Heart of Darkness",
+    "author": "Joseph Conrad",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/tyxilwq93riaj4702yj9ntkf6o8g",
+    "description": "The story details an incident when Marlow, an Englishman, took a foreign assignment from a Belgian trading company as a ferry-boat captain in Africa. Although Conrad does not specify the name of th..."
+  },
+  {
+    "id": 25,
+    "title": "The Sound and the Fury",
+    "author": "William Faulkner",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/zqqerjm8ewv5z75v1cnk9wmno0rp",
+    "description": "The Sound and the Fury is set in the fictional Yoknapatawpha County. The novel centers on the Compson family, former Southern aristocrats who are struggling to deal with the dissolution of their fa..."
+  },
+  {
+    "id": 26,
+    "title": "Nineteen Eighty Four",
+    "author": "George Orwell",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/bfi7lsm3qq746i49tcda0wuntedh",
+    "description": "The story follows the life of one seemingly insignificant man, Winston Smith, a civil servant assigned the task of perpetuating the regime's propaganda by falsifying records and political literatur..."
+  },
+  {
+    "id": 27,
+    "title": "Great Expectations",
+    "author": "Charles Dickens",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/p1hex7c8wgkjjvks6pogmjloyj0p",
+    "description": "Great Expectations is written in the genre of \"bildungsroman\" or the style of book that follows the story of a man or woman in their quest for maturity, usually starting from childhood and ending i..."
+  },
+  {
+    "id": 28,
+    "title": "One Thousand and One Nights",
+    "author": "India/Iran/Iraq/Egypt",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/consucm8tbyk49godu2uf0yngy3c",
+    "description": "One Thousand and One Nights is a collection of Middle Eastern and South Asian stories and folk tales compiled in Arabic during the Islamic Golden Age. It is often known in English as the Arabian Ni..."
+  },
+  {
+    "id": 29,
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/kyesti6aglwy6yocua5wr21n8l4c",
+    "description": "Set during the Great Depression, the novel focuses on a poor family of sharecroppers, the Joads, driven from their home by drought, economic hardship, and changes in the agriculture industry. In a ..."
+  },
+  {
+    "id": 30,
+    "title": "Absalom, Absalom!",
+    "author": "William Faulkner",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/sm15lqtnyzz03dctpcpjt3jnpqo4",
+    "description": "Absalom, Absalom! is a Southern Gothic novel by the American author William Faulkner, first published in 1936. It is a story about three families of the American South, taking place before, during,..."
+  },
+  {
+    "id": 31,
+    "title": "Invisible Man",
+    "author": "Ralph Ellison",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/r9z7olkoavrv49e8emd943ui5qvr",
+    "description": "The novel addresses many of the social and intellectual issues facing African-Americans in the early twentieth century, including black nationalism, the relationship between black identity and Marx..."
+  },
+  {
+    "id": 32,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/f286k461hpyojs41nwzenyd2sv0p",
+    "description": "As a Southern Gothic novel and a Bildungsroman, the primary themes of To Kill a Mockingbird involve racial injustice and the destruction of innocence. Scholars have noted that Lee also addresses is..."
+  },
+  {
+    "id": 33,
+    "title": "The Trial",
+    "author": "Franz Kafka",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/l02zwjvgm3xlx49kxoveycp1j9ns",
+    "description": "Written in 1914, The Trial is one of the most important novels of the twentieth century: the terrifying tale of Josef K., a respectable bank officer who is suddenly and inexplicably arrested and mu..."
+  },
+  {
+    "id": 34,
+    "title": "The Red and the Black",
+    "author": "Stendhal",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/8svvdx08j1jx7zrmi0076ozp1tqm",
+    "description": "Le Rouge et le Noir (The Red and the Black), subtitled Chronique du XIXe siécle (\"Chronicle of the 19th century\"), is an historical psychological novel in two volumes by Stendhal, published in 1830..."
+  },
+  {
+    "id": 35,
+    "title": "Middlemarch",
+    "author": "George Eliot",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/x28g3tdbiy7pbztil4yetfx3o2im",
+    "description": "Middlemarch: A Study of Provincial Life is a novel by George Eliot, the pen name of Mary Anne Evans, later Marian Evans. It is her seventh novel, begun in 1869 and then put aside during the final i..."
+  },
+  {
+    "id": 36,
+    "title": "Gulliver's Travels",
+    "author": "Jonathan Swift",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/vdg45zcv7lyvfr66k8xpybslljfy",
+    "description": "From the preeminent prose satirist in the English language, a great classic recounting the four remarkable journeys of ship's surgeon Lemuel Gulliver. For children it remains an enchanting fantasy;..."
+  },
+  {
+    "id": 37,
+    "title": "Beloved",
+    "author": "Toni Morrison",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/rgbp8t53jgjxf52ibulydun84k0m",
+    "description": "Beloved (1987) is a Pulitzer Prize-winning novel by Nobel laureate Toni Morrison. The novel, her fifth, is loosely based on the life and legal case of the slave Margaret Garner, about whom Morrison..."
+  },
+  {
+    "id": 38,
+    "title": "Mrs. Dalloway",
+    "author": "Virginia Woolf",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/g4x0fb7mqjau2kfbz9envj0ph4jn",
+    "description": "Created from two short stories, \"Mrs Dalloway in Bond Street\" and the unfinished \"The Prime Minister\", the novel's story is of Clarissa's preparations for a party of which she is to be hostess. Wit..."
+  },
+  {
+    "id": 39,
+    "title": "The Stories of Anton Chekhov",
+    "author": "Anton Chekhov",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/iif8mxlx7cok3bj24pkmac1spy6d",
+    "description": "Anton Pavlovich Chekhov was a Russian short-story writer, playwright and physician, considered to be one of the greatest short-story writers in the history of world literature. His career as a dram..."
+  },
+  {
+    "id": 40,
+    "title": "The Stranger",
+    "author": "Albert Camus",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/rd3hqp99t7fd4gwk33qysumkbtlh",
+    "description": "Since it was first published in English, in 1946, Albert Camus's extraordinary first novel, The Stranger (L'Etranger), has had a profound impact on millions of American readers. Through this story ..."
+  },
+  {
+    "id": 41,
+    "title": "Jane Eyre",
+    "author": "Charlotte Bronte",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/ydzg0xlc5e6680bthuefj17kqbin",
+    "description": "Jane Eyre is a first-person narrative of the title character, a small, plain-faced, intelligent and honest English orphan. The novel goes through five distinct stages: Jane's childhood at Gateshead..."
+  },
+  {
+    "id": 42,
+    "title": "The Aeneid",
+    "author": "Virgil",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/gnf93lj9puuvruku636kbqot5eue",
+    "description": "The Aeneid is a Latin epic poem written by Virgil in the late 1st century BC (29–19 BC) that tells the legendary story of Aeneas, a Trojan who traveled to Italy, where he became the ancestor of the..."
+  },
+  {
+    "id": 43,
+    "title": "Collected Fiction",
+    "author": "Jorge Luis Borges",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/zjdebfocqm8e1ynism67t1434h8m",
+    "description": "From his 1935 debut with The Universal History of Iniquity, through his immensely influential collections Ficciones and The Aleph, these enigmatic, elaborate, imaginative inventions display Borges'..."
+  },
+  {
+    "id": 44,
+    "title": "The Sun Also Rises",
+    "author": "Ernest Hemingway",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/c4f6gyfx6ay4c2mvm4oo0sll7al9",
+    "description": "The novel explores the lives and values of the so-called \"Lost Generation,\" chronicling the experiences of Jake Barnes and several acquaintances on their pilgrimage to Pamplona for the annual San F..."
+  },
+  {
+    "id": 45,
+    "title": "David Copperfield",
+    "author": "Charles Dickens",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/y1p4jrv4eq026yhl1gu2tfgqfmx2",
+    "description": "The story of the abandoned waif who learns to survive through challenging encounters with distress and misfortune."
+  },
+  {
+    "id": 46,
+    "title": "Tristram Shandy",
+    "author": "Laurence Sterne",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/zxuwg9q6du2kazlgngkynslgof5o",
+    "description": "As its title suggests, the book is ostensibly Tristram's narration of his life story. But it is one of the central jokes of the novel that he cannot explain anything simply, that he must make expla..."
+  },
+  {
+    "id": 47,
+    "title": "Leaves of Grass",
+    "author": "Walt Whitman",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/sipfu1oc66rend55gj85ymtfb9e8",
+    "description": "Leaves of Grass (1855) is a poetry collection by the American poet Walt Whitman. Among the poems in the collection are \"Song of Myself,\" \"I Sing the Body Electric,\" \"Out of the Cradle Endlessly Roc..."
+  },
+  {
+    "id": 48,
+    "title": "The Magic Mountain",
+    "author": "Thomas Mann",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/qbjb2s6tbm6brvruwhi8pekqi968",
+    "description": "The Magic Mountain is a novel by Thomas Mann, first published in November 1924. It is widely considered to be one of the most influential works of 20th century German literature."
+  },
+  {
+    "id": 49,
+    "title": "A Portrait of the Artist as a Young Man",
+    "author": "James Joyce",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/0z0sqrkmosh7x4anf0pvj190asjz",
+    "description": "A Portrait of the Artist as a Young Man is a semi-autobiographical novel by James Joyce, first serialized in The Egoist from 1914 to 1915 and published in book form in 1916. It depicts the formativ..."
+  },
+  {
+    "id": 50,
+    "title": "Midnight's Children",
+    "author": "Salman Rushdie",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/dj2dl9143zm239j812zzlwvrxc8o",
+    "description": "Midnight's Children is a loose allegory for events in India both before and, primarily, after the independence and partition of India, which took place at midnight on 15 August 1947. The protagonis..."
+  },
+  {
+    "id": 51,
+    "title": "The Comforts of Madness",
+    "author": "Paul Sayer",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/hnt6e4iloe73cwqz17vd3rhtummt",
+    "description": ""
+  },
+  {
+    "id": 52,
+    "title": "Native American Folktales",
+    "author": "Thomas A. Green",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/t39i704v2edd0kqvl2hbtv409ne0",
+    "description": "Presents thirty-one stories selected from North American native traditions, organized into such categories as origins, heroes, heroines, villains, society and conflict, and the supernatural."
+  },
+  {
+    "id": 53,
+    "title": "On the Bus with Rosa Parks",
+    "author": "Rita Dove",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/ylw14rqnaykq7ufdl9mxru21r9m8",
+    "description": ""
+  },
+  {
+    "id": 54,
+    "title": "The Collected Works",
+    "author": "Kahlil Gibran",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/j1qg5owcvrwrw24j9hq1fifvail2",
+    "description": "A collection of the major works of the celebrated poet, artist, and mystic features an array of stories, parables, prose poems, and essays that include \"The Prophet,\" \"The Wanderer,\" \"Jesus the Son..."
+  },
+  {
+    "id": 55,
+    "title": "The Ice Storm: A Novel",
+    "author": "Rick Moody",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/bw5h0cclji2x1yasm2cpynch4183",
+    "description": "The year is 1973. As a freak winter storm bears down on an exclusive, affluent suburb in Connecticut, cark skid out of control, men and women swap partners, and their children experiment with sex, ..."
+  },
+  {
+    "id": 56,
+    "title": "Flowering Judas and Other Stories",
+    "author": "Katherine Anne Porter",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/9c1c0uvfmyg3jgpu1a4jyerck9mc",
+    "description": "the astonishing 1930 collection that introduced a major new voice in American literature. \"If Katherine Anne Porter had written nothing but these short narratives,\" observed the New York Times, \"sh..."
+  },
+  {
+    "id": 57,
+    "title": "Man in the Holocene",
+    "author": "Max Frisch",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/vrafxnvyecmau07ppo272a7qvzez",
+    "description": "The parabolic novella Man in the Holocene (1979) is one of Max Frisch’s later works. A distinctive feature of this book’s style are the reprinted cutouts, that the protagonist, Mr. Geiser, cut out ..."
+  },
+  {
+    "id": 58,
+    "title": "Henry IV, Part I",
+    "author": "William Shakespeare",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/q5yz4pa8tdcxnchf7mdylnpakp71",
+    "description": "William Shakespeare's King Henry IV, Part I is one the playwright's classic historical English dramas. The narrative revolves around the rebellion against King Henry IV led by the Welshman Glendowe..."
+  },
+  {
+    "id": 59,
+    "title": "Brown Girl, Brownstones",
+    "author": "Paule Marshall",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/dy1nqwms6l56scplesfyop775gie",
+    "description": "An unforgettable novel, written with pride and anger, with rebellion and tears.\"—Herald Tribune Book Review\"Passionate, compelling . . . an impressive accomplishment.\"—Saturday Review\"Remarkable f..."
+  },
+  {
+    "id": 60,
+    "title": "Spies",
+    "author": "Michael Frayn",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/49j7tys3codghh95ya9xdxxayljg",
+    "description": ""
+  },
+  {
+    "id": 61,
+    "title": "I, etcetera",
+    "author": "Susan Sontag",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/vvmujdqqzeph8re20aptuta8iglg",
+    "description": "I, etcetera is a 1978 collection of short stories by Susan Sontag."
+  },
+  {
+    "id": 62,
+    "title": "The Child in Time",
+    "author": "Ian McEwan",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/peg0m469191ioil4gbe58qt1wjcy",
+    "description": "The Child in Time (1987) is a novel by Ian McEwan. It won the Whitbread Novel Award for that year. It concerns Stephen, an author of children's books, and his wife two years after the kidnapping of..."
+  },
+  {
+    "id": 63,
+    "title": "Lolly Willowes",
+    "author": "Sylvia Townsend Warner",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/wyn07c92vvea5ny2hub3q5q8tfjw",
+    "description": "In Lolly Willowes, Sylvia Townsend Warner tells of an aging spinster's struggle to break way from her controlling family—a classic story that she treats with cool feminist intelligence, while addin..."
+  },
+  {
+    "id": 64,
+    "title": "The Complete Short Stories of Jack London",
+    "author": "Jack London",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/sy2elrgq51v6boif345xp149gesb",
+    "description": "John Griffith \"Jack\" London (born John Griffith Chaney, January 12, 1876 – November 22, 1916) was an American author, journalist, and social activist. He was a pioneer in the then-burgeoning world ..."
+  },
+  {
+    "id": 65,
+    "title": "The Pure and the Impure",
+    "author": "Colette",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/cmvslekds2xm9vbne14zyio9plc8",
+    "description": "Colette herself considered The Pure and the Impure her best book, \"the nearest I shall ever come to writing an autobiography.\" This guided tour of the erotic netherworld with which Colette was so i..."
+  },
+  {
+    "id": 66,
+    "title": "Extremely Loud and Incredibly Close",
+    "author": "Jonathan Safran Foer",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/e8ewj1tn2kpn78o0fdwpvbgacpx7",
+    "description": "Jonathan Safran Foer follows his best-selling debut novel, Everything Is Illuminated, with an unexpectedly hilarious and affecting story about New York City in the period following September 11 Ext..."
+  },
+  {
+    "id": 67,
+    "title": "Speedboat",
+    "author": "Renata Adler",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/xsr9df4n6yhn4bi6f1vfdqy4hemz",
+    "description": "When Speedboat burst on the scene in the late ’70s it was like nothing readers had encountered before. It seemed to disregard the rules of the novel, but it wore its unconventionality with ease. Re..."
+  },
+  {
+    "id": 68,
+    "title": "Women",
+    "author": "Charles Bukowski",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/he2po9i8pjsz1u3ds0b6p6ibyv0t",
+    "description": "Women is a 1978 novel written by Charles Bukowski, starring his semi-autobiographical character Henry Chinaski. In contrast to Factotum, Post Office and Ham on Rye, Women is centered around Chinask..."
+  },
+  {
+    "id": 69,
+    "title": "The Oranging of America",
+    "author": "Max Apple",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/jxx0b0hwvdynk9fjrfzouz8upv60",
+    "description": "Max Apple (born October 22, 1941) is an American short story writer, novelist, and university professor at The University of Pennsylvania in Philadelphia, Pennsylvania. Apple, who was born in Grand..."
+  },
+  {
+    "id": 70,
+    "title": "Sybil: Or The Two Nations",
+    "author": "Benjamin Disraeli",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/tkqcl5t7m67qlwzgdqm6ty7cxu8t",
+    "description": "Sybil was written by Benjamin Disraeli, future Prime Minister of Great Britain. He was greatly concerned with the poverty of the working classes, and this novel, with its in-depth exploration of th..."
+  },
+  {
+    "id": 71,
+    "title": "The Epicure's Lament",
+    "author": "Kate Christensen",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/leupqjdnv8k89w7edk4f6ploiv0j",
+    "description": "Hugo Whittier–failed poet and former kept man–is a wily misanthrope with a taste for whiskey, women, and his own cooking. Afflicted with a rare disease that will be fatal unless he quits smoking, H..."
+  },
+  {
+    "id": 72,
+    "title": "Selected Poems of Gabriela Mistral",
+    "author": "Gabriela Mistral",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/lcwv94ffiu39dt7ygyefnhyuao06",
+    "description": "The first Nobel Prize in literature to be awarded to a Latin American writer went to the Chilean poet Gabriela Mistral. Famous and beloved during her lifetime all over Latin America and in Europe, ..."
+  },
+  {
+    "id": 73,
+    "title": "Selected Poems",
+    "author": "Andrew Marvell",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/1g3qq5mqbfbua29jqhxse2kveru4",
+    "description": "The quality which [Andrew] Marvell had,\" T.S. Eliot remarked, \"whether we call it wit or reason or even urbanity.is something precious and needed and apparently extinct.\" This selection does justi..."
+  },
+  {
+    "id": 74,
+    "title": "The Dyskolos",
+    "author": "Menander",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/0kvvz93maftp34bc5915elpqg507",
+    "description": "Dyskolos (Greek: Δύσκολος, translated as The Grouch, The Misanthrope, The Curmudgeon, The Bad-tempered Man or Old Cantankerous) is an Ancient Greek comedy by Menander, the only one of his plays, an..."
+  },
+  {
+    "id": 75,
+    "title": "The Collected Short Stories of Maxim Gorky",
+    "author": "Maxim Gorky",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/s3wkt1pu8wqnlyfsuxdc3e9fg6km",
+    "description": "Maxim Gorky continues to be regarded as the greatest literary representative of revolutionary Russia. Born of the people, and having experienced in his own person their sufferings and their misery,..."
+  },
+  {
+    "id": 76,
+    "title": "The Tragical History of Doctor Faustus",
+    "author": "Christopher Marlowe",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/374esrk8nsvwpvodu3l8ge3e430z",
+    "description": "The Tragical History of the Life and Death of Doctor Faustus, commonly referred to simply as Doctor Faustus, is a play by Christopher Marlowe, based on the German story Faust, in which a man sells ..."
+  },
+  {
+    "id": 77,
+    "title": "Kabbalah",
+    "author": "Unknown",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/zn1fiigu1xpspqfpg2kcr3b25o9q",
+    "description": "Kabbalah is a discipline and school of thought concerned with the mystical aspect of Judaism. It is a set of esoteric teachings that is meant to explain the relationship between an infinite, eterna..."
+  },
+  {
+    "id": 78,
+    "title": "Geek Love: A Novel",
+    "author": "Katherine Dunn",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/1qza9dilzkzilwz0l7awz2dg1tob",
+    "description": "Geek Love is the story of the Binewskis, a carny family whose mater- and paterfamilias set out–with the help of amphetamine, arsenic, and radioisotopes–to breed their own exhibit of human oddities...."
+  },
+  {
+    "id": 79,
+    "title": "The Yiddish Policemen's Union",
+    "author": "Michael Chabon",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/7s4olfioq6kizmw59jix8km9m324",
+    "description": "The Yiddish Policemen's Union is a 2007 novel by American author Michael Chabon. The novel is a detective story set in an alternative history version of the present day, based on the premise that d..."
+  },
+  {
+    "id": 80,
+    "title": "If: A Father's Advice to His Son",
+    "author": "Rudyard Kipling",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/8iffsj2ar1jmkm93r8dt4bily52k",
+    "description": "An illustrated version of one of Kipling's famous poems about a father's advice to his son."
+  },
+  {
+    "id": 81,
+    "title": "A Single Man",
+    "author": "Christopher Isherwood",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/4um3lw7zkjaal8b1lvcqy6v15w0c",
+    "description": "Welcome to sunny suburban 1960s Southern California. George is a gay middle-aged English professor, adjusting to solitude after the tragic death of his young partner. He is determined to persist in..."
+  },
+  {
+    "id": 82,
+    "title": "The Chip Chip Gatherers",
+    "author": "Shiva Naipaul",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/e7kz749ixzbkk9c4htosikojf4uy",
+    "description": "The Chip-Chip Gatherers is a novel by Shiva Naipaul originally published in 1973 by Penguin Books. It was reprinted in a new edition as a Penguin Twentieth Century Classic in 1997. It is a comic st..."
+  },
+  {
+    "id": 83,
+    "title": "I Loved You More",
+    "author": "Tom Spanbauer",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/zdiz4wrxle57wyjxdgcu9809nten",
+    "description": "Tom Spanbauer’s first novel in seven years is a love story triangle akin to The Marriage Plot and Freedom, only with a gay main character who charms gays and straights alike. I Loved You More is a ..."
+  },
+  {
+    "id": 84,
+    "title": "The Hunting of the Snark: An Agony, in Eight Fits",
+    "author": "Lewis Carroll",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/ijggsthfl6vwzfc10u82pcbguo7v",
+    "description": "The Hunting of the Snark (An Agony in 8 Fits) is typically categorized as a nonsense poem written by Lewis Carroll, the pen name of Charles Lutwidge Dodgson. Written from 1874 to 1876, the poem bor..."
+  },
+  {
+    "id": 85,
+    "title": "The Cunning Man",
+    "author": "Robertson Davies",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/bptu0ve6977m1wt24axz6akvkky7",
+    "description": "The Cunning Man, published by McClelland and Stewart in 1994, is the last novel written by Canadian novelist Robertson Davies.\n\nThe Cunning Man is the memoir of the life of a doctor, Dr. Jonathan..."
+  },
+  {
+    "id": 86,
+    "title": "Advertisements for Myself",
+    "author": "Norman Mailer",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/gybkyxf5dfwrog2825y9ydysiqof",
+    "description": "Advertisements for Myself is an omnibus collection of short works and fragments by Norman Mailer, linked with commentaries supplied by the author himself. The collection, which was published by G.P..."
+  },
+  {
+    "id": 87,
+    "title": "Pure",
+    "author": "Andrew Miller",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/e5s3hczmwptpzu1s7iog4oxayebg",
+    "description": "Jean-Baptiste Baratte, an engineer of modest origin, arrives in the city in 1785, charged by the King’s minister with emptying the overflowing cemetery of Les Innocents, a ancient site whose stench..."
+  },
+  {
+    "id": 88,
+    "title": "The Shawl",
+    "author": "Cynthia Ozick",
+    "cover": "https://d3i5mgdwi2ze58.cloudfront.net/7vqe4xsy1isy2p1ei61xmzuswj0c",
+    "description": "The Shawl is considered a modern classic - a masterpiece in two acts. The horror and desolation evoked through piercing imagery - first through the abomination of a Holocaust concentration camp mur..."
+  }
+]
